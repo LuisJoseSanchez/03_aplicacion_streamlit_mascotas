@@ -1,3 +1,3 @@
-# Hola mundo en Streamlit
+# Reconocimiento de mascotas
 
-Proyecto de prueba Streamlit.
+Reconoce el tipo de mascota.
