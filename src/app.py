@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 import json
 
-st.image("mascotas.jpg", use_container_width=True)
+st.image("src/mascotas.jpg", use_container_width=True)
 
 # Cargar el modelo entrenado y las asignaciones
 model = joblib.load("pets_model.joblib")
